@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Haranya Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <img src="profile.png" class="profile">
+  <h1>Gudupally Haranya</h1>
+  <p>B.Tech CSE Student | Aspiring Software Developer</p>
+  <a href="resume.pdf" download>Download Resume</a>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>I am a B.Tech 2nd-year Computer Science student passionate about coding, web development, and machine learning.</p>
+</section>
+
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>Java</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Machine Learning Basics</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Projects</h2>
+  <ul>
+    <li>Personal Portfolio Website</li>
+    <li>WattWise AI</li>
+    <li>Student Management System</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>Email: haranya@example.com</p>
+  <p>LinkedIn: linkedin.com/in/haranya</p>
+  <p>GitHub: github.com/haranya</p>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
