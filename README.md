@@ -1,2 +1,10 @@
-# haranya-portfolio
-A responsive personal portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, education, certifications, and contact information.
+# Haranya Portfolio
+
+A responsive personal portfolio website built using HTML, CSS, and JavaScript.
+
+## Features
+- About Me
+- Skills
+- Projects
+- Contact Information
+- Resume Download
